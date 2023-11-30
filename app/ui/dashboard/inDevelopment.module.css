@@ -1,0 +1,9 @@
+.container {
+  background-color: var(--bgSoft);
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border-radius: 10px;
+}
